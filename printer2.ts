@@ -115,6 +115,7 @@
   printer.print(printer.computer_file); 
   console.log('-------------');
   printer.print(printer.scan_file);
+  //이건 뭐람
 
   console.log(printer.paperNumber);
   console.log(printer.inkNumber);
